@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!-- Hello World!! (XML, HTML, JavaScript) -->
+<Module specificationVersion='2'>
+	<!-- 
+	* STEP 1
+	* Let's rename our application and set a default height for the gadget to 500 in ModulePrefs
+	-->
+	<ModulePrefs title="Hello World!!" height="500">
+	</ModulePrefs>
+	<Content type="html" href=hello_world.html"/>
+</Module>
