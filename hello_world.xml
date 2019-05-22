@@ -7,5 +7,5 @@
 	-->
 	<ModulePrefs title="Hello World!!" height="500">
 	</ModulePrefs>
-	<Content type="html" href=hello_world.html"/>
+	<Content type="html" href="hello_world.html"/>
 </Module>
