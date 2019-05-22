@@ -8,4 +8,5 @@
 	<ModulePrefs title="Hello World!!" height="500">
 	</ModulePrefs>
 	<Content type="html" href="hello_world.html"/>
+	<script type = "text / javascript" src = "helloworld.js" > </script>  
 </Module>
